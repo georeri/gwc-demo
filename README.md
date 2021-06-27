@@ -33,5 +33,8 @@ git commit -m "First site publish"
 git push
 ```
 
+Checkout the "Actions" tab in your repo to see if your build succeeded and debug any issues.
+
 Got to "Setings" on your GitHub repo and change "pages" source go gh-pages branch and /(root), click "Save"
+
 Navigate to the URL shown on the page to see if your site is published!
