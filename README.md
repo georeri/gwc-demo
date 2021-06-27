@@ -8,9 +8,17 @@
 
 # Instructions on how to do this
 Create a new repo in GitHub with a name you like for your site
-git clone the repo locally
-cd to the directory you cloned to
+Choose a directory to work from on your computer
+In a terminal window
+```
 hugo new site my-site-name --force // (replace my-site-name with the name of your site)
+cd my-site-name
+git init -b main
+git add .
+git commit -m 'new site'
+git remote add origin THEURLOFTHEREPOYOUCREATED
+git push --set-upstream origin main
+```
 
 Find a hugo theme you like and configure it. I used: https://themes.gohugo.io/base16/ 
 (To include theme, don't use git clone, use 
