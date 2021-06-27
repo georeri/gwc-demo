@@ -1,10 +1,10 @@
 # gwc-demo
 
 # Tools you can use
-Create a github account https://github.com/
-Install git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-Install hugo https://gohugo.io/getting-started/installing/
-Install VSCode https://code.visualstudio.com/
+- Create a github account https://github.com/
+- Install git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- Install hugo https://gohugo.io/getting-started/installing/
+- Install VSCode https://code.visualstudio.com/
 
 # Instructions on how to do this
 Create a new repo in GitHub with a name you like for your site
