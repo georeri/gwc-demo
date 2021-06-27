@@ -13,7 +13,9 @@ cd to the directory you cloned to
 hugo new site my-site-name --force // (replace my-site-name with the name of your site)
 
 Find a hugo theme you like and configure it. I used:
-https://themes.gohugo.io/base16/ (But instead of git clone, use git submodule add https://github.com/htdvisser/hugo-base16-theme.git base16)
+https://themes.gohugo.io/base16/ 
+(But instead of git clone, use 
+git submodule add https://github.com/htdvisser/hugo-base16-theme.git base16)
 
 Update config.toml
 - Set your baseURL to https://MYGITID.github.io/site-name
