@@ -12,12 +12,12 @@ Create a new repo in GitHub with a name you like for your site.
 Choose a directory to work from on your computer.
 In a terminal window and navigate to that directory.
 ```
-hugo new site my-site-name --force // (replace my-site-name with the name of your site)
+hugo new site my-site-name // (replace my-site-name with the name of your site)
 cd my-site-name
 git init -b main
 git add .
 git commit -m 'new site'
-git remote add origin THEURLOFTHEREPOYOUCREATED
+git remote add origin THE-URL-OF-THE-REPO-YOU-CREATED
 git push --set-upstream origin main
 ```
 
