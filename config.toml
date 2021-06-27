@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://georeri.github.io/gwc-demo/"
 languageCode = "en-us"
 title = "GWC Demo"
 theme = "base16"
