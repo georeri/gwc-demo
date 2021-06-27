@@ -14,6 +14,7 @@ hugo new site my-site-name --force // (replace my-site-name with the name of you
 
 Find a hugo theme you like and configure it. I used:
 https://themes.gohugo.io/base16/ 
+
 (But instead of git clone, use 
 git submodule add https://github.com/htdvisser/hugo-base16-theme.git base16)
 
