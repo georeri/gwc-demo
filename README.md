@@ -32,7 +32,7 @@ Update config.toml
 - Set title to a descriptive title of your site
 - Set theme = "base16" //Or whatever theme you used
 
-Follow instructions here to setup and Action to publish your site:
+Follow instructions here to setup an Action to publish your site:
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 Push code to remote
